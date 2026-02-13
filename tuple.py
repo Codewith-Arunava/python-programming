@@ -15,12 +15,25 @@ print(marks[0])
 
 #wap to check if a list contains a palindrome of elements.(hint:use copy()method)    ex= [1,2,3,2,1]
 
-list1=[1,2,1]
-list2=[1,2,3]
-copy_list1=list1.copy()
-copy_list1.reverse()
+# list1=[1,2,1]
+# copy_list1=list1.copy()
+# copy_list1.reverse()
 
-if(copy_list1==list1):
-    print("list1 is a palindrome")
-else:
-    print("list1 is not a palindrome")
+# if(copy_list1==list1):
+#     print("list1 is a palindrome")
+# else:
+#     print("list1 is not a palindrome")
+
+
+
+#wap to count the number of students with the "A" grade in the following list: grades=["C","D","A","A","B","B","A"]
+
+# grades=["C","D","A","A","B","B","A"]
+# print(grades.count("A"))
+
+
+#store the above values in a list & sort them from "A" to "D"
+
+grades=["C","D","A","A","B","B","A"]
+grades.sort()
+print(grades)
