@@ -37,3 +37,10 @@ print(marks[0])
 grades=["C","D","A","A","B","B","A"]
 grades.sort()
 print(grades)
+
+
+JKBEF
+RFE
+dfgfdh
+
+fsdg
