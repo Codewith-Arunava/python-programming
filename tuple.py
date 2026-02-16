@@ -39,17 +39,7 @@ grades.sort()
 print(grades)
 
 
-JKBEF
-RFE
-dfgfdh
+relkghnb
+fhdgn
 
-fsdg
-
-fedgf
-fghwacd
-dgh
-rfegjmv
-wrfg
-ertgs
-ertg
-ertgw
+keg
