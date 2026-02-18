@@ -42,4 +42,3 @@ print(grades)
 relkghnb
 fhdgn
 
-keg
