@@ -40,5 +40,3 @@ print(grades)
 
 
 relkghnb
-fhdgn
-
