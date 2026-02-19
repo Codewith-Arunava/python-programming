@@ -39,6 +39,3 @@ grades.sort()
 print(grades)
 
 
-relkghnb
-herrjkg
-djg
