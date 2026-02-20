@@ -34,3 +34,7 @@ pairs=list(student.items())
 print(pairs[2])
 
 print(student.get("name"))
+
+
+student.update({"city": "barasat"})
+print(student)
