@@ -26,3 +26,4 @@ table:
 dfg
 gfsd
 set
+FloatingPointError
