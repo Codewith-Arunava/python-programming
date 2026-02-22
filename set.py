@@ -31,3 +31,4 @@ fdf
 dfg
 df
 global
+FloatingPointError
