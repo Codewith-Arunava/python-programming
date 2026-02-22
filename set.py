@@ -30,3 +30,4 @@ FloatingPointError
 fdf
 dfg
 df
+global
