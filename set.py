@@ -41,15 +41,21 @@ print(len(students))
 
 #WAP to enter marks of 3 subs from the user and store them in s dict.start with an empty dict & add one by one.use subject name as key & marks as value.
 
-marks={}
+# marks={}
 
-x=int(input("enter marks of phy:"))
-marks.update({"phy":x})
+# x=int(input("enter marks of phy:"))
+# marks.update({"phy":x})
 
-y=int(input("enter marks of chem:"))
-marks.update({"chem":y})
+# y=int(input("enter marks of chem:"))
+# marks.update({"chem":y})
 
-z=int(input("enter marks of math:"))
-marks.update({"math":z})
+# z=int(input("enter marks of math:"))
+# marks.update({"math":z})
 
-print(marks)
+# print(marks)
+
+
+#figure out a way to store 9 & 9.0 as separarate values in a set.(you can take help of built-inn data types)
+
+values={"int":9,"float":9.0}
+print(values)
