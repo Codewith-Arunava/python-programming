@@ -22,13 +22,34 @@
 
 #practice question 1
 
-table:
-dfg
-gfsd
-set
-FloatingPointError
-fdf
-dfg
-df
-global
-FloatingPointError
+#store the following word meanings in a python dict:
+# table:"a piece of furniture","list of facts &figures"
+# cat:"a small animal"
+
+dict={
+    "cat":"a small animal",
+    "table":["a piece of furniture","list of facts &figures"]
+}
+print(dict)
+
+
+#assume one classroom is required for 1 classroom .how many classrooms are needed by all students
+#"python",""java,"c++","javascript","java","python","java","c++","c"
+
+students={"python","java","c++","javascript","java","python","java","c++","c"}
+print(len(students))
+
+#WAP to enter marks of 3 subs from the user and store them in s dict.start with an empty dict & add one by one.use subject name as key & marks as value.
+
+marks={}
+
+x=int(input("enter marks of phy:"))
+marks.update({"phy":x})
+
+y=int(input("enter marks of chem:"))
+marks.update({"chem":y})
+
+z=int(input("enter marks of math:"))
+marks.update({"math":z})
+
+print(marks)
