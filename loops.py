@@ -35,3 +35,5 @@ while idx<len(nums):
     print(nums[idx])
     idx+=1
 sdf
+asdrfhlbnj
+EncodingWarning
