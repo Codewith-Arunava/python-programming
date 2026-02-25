@@ -36,5 +36,5 @@ while idx<len(nums):
     idx+=1
 refg
 FutureWarninggerf
-gertf
-getattr
+gert
+finally
