@@ -29,5 +29,13 @@
 # for i in range(3,10,2):
 #     print(i)
 
-for i in range(10,0,-1):
-    print(i)
+# for i in range(10,0,-1):
+#     print(i)
+
+#wap to find the factorial of first n number using for loop.
+
+n=int(input("enter a number:"))
+fact=1
+for i in range(1,n+1):
+    fact*=i
+print("factorial is=",fact)
