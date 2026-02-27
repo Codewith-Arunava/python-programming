@@ -49,10 +49,21 @@
 
 
 #print odd numbers
+# i=1
+# while i<=10:
+#     if (i%2!=0):
+#         i+=1
+#         continue
+#     print(i)
+#     i+=1
+
+
+
+#wap to find the sum of first n natural numbers.(using while loop)
+n=int(input("enter a number:"))
+sum=0
 i=1
-while i<=10:
-    if (i%2!=0):
-        i+=1
-        continue
-    print(i)
+while i<=n:
+    sum+=i
     i+=1
+print("total sum =",sum)
