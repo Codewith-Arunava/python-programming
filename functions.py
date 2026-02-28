@@ -39,10 +39,12 @@
 
 #hw
 
-def check_even_odd(num):
-    if num%2==0:
-        print(num,"is even")
+def check_even_odd(n):
+    if n%2==0:
+        print(n,"is even")
     else:
-        print(num,"is odd")
+        print(n,"is odd")
 num=int(input("enter a number:"))
 check_even_odd(num)
+fdjhghervgjkf
+jbhk
