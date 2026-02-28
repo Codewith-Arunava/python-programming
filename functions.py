@@ -46,5 +46,3 @@ def check_even_odd(n):
         print(n,"is odd")
 num=int(input("enter a number:"))
 check_even_odd(num)
-fdjhghervgjkf
-jbhk
