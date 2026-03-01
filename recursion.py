@@ -27,3 +27,8 @@ def  calc_sum(n):
 djfb
 jfdbsv
 print(calc_sum(5))
+def
+    fib(n):
+        if(n==0 or n==1):
+            return n
+        return fib(n-1) + fib(n-2)
