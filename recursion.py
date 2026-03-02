@@ -35,3 +35,5 @@ def
 dh
 hfnhg 
 fdgb
+
+print(fib(10))
