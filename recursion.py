@@ -30,3 +30,5 @@ def calc_sum(n):
     return calc_sum(n-1) + n
 
 print(calc_sum(5))
+global
+elif
