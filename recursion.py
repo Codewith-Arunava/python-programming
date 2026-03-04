@@ -24,11 +24,11 @@ def  calc_sum(n):
         return 0
     print(n)
     return calc_sum(n-1) + n
-def calc_sum(n):
-    if(n==0):
-        return 0
-    return calc_sum(n-1) + n
 
-print(calc_sum(5))
-global
-elif
+
+
+n=int(input("enter a number:"))
+while n>0:
+    last_digit=n%10
+    print(last_digit)
+    n=n//10
