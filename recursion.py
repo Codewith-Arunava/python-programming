@@ -32,3 +32,12 @@ while n>0:
     last_digit=n%10
     print(last_digit)
     n=n//10
+
+    set
+    raise
+while True:
+    try:
+        n=int(input("enter a number:"))
+        break
+    except ValueError:
+        print("invalid input, try again")
