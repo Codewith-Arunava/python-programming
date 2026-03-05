@@ -50,4 +50,6 @@ while True:
 
         print(n)
         show(n-1)
-        
+
+        def fact(n):
+    if(n==1 or n==0):
