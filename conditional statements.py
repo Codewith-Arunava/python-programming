@@ -74,6 +74,7 @@ if(num%7==0):
 else:
     print("not a multiple of 7")
 
+r
 
 hhj
 jjgh
