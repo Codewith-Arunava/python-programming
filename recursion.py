@@ -53,3 +53,5 @@ while True:
 
         def fact(n):
     if(n==1 or n==0):
+        ewr
+        eqwr
