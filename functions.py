@@ -37,6 +37,7 @@
 #     print(usd,"usd = ",inr,"inr")
 # converter(2)
 
+
 #hw
 
 def check_even_odd(n):
