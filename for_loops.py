@@ -4,7 +4,6 @@
 # else:
 #     print("loop is over")
 
-
 # str="hello world"
 # for ch in str:
 #     if ch=="o":
