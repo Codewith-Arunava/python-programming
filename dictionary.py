@@ -10,7 +10,7 @@
 # info["name"] = "arunava"
 # print(info)
 
-
+ 
 #NESTED DICTIONARY
 student={
     "name": "John Doe",
