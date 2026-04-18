@@ -4,7 +4,7 @@ print(type(marks))
 print(marks[0])
 print(marks[1])
 print(len(marks))
-
+ 
 student=["sachin",45,5.6,"mumbai"]
 print(student)
 print(type(student))
