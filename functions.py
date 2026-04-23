@@ -7,7 +7,7 @@
 #average of three numbers
 # def avg(a,b,c):
 #     average=(a+b+c)/3
-#     print("the average is",average)
+#     print("the average is",average) 
 
 # avg(10,20,30)
 
