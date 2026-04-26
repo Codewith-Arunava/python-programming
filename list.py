@@ -25,6 +25,6 @@ print(marks)
 marks.insert(2,100)
 print(marks)
 marks.remove(55)
-print(marks)
+print(marks) 
 
 #e
