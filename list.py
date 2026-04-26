@@ -23,7 +23,7 @@ print(marks)
 print(marks.reverse())
 print(marks)
 marks.insert(2,100)
-print(marks)
+print(marks) 
 marks.remove(55)
 print(marks) 
 
