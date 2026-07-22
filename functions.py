@@ -4,7 +4,7 @@
 
 # calc_sum(10,20)
 
-#average of three numbers
+#average of three numbers  
 # def avg(a,b,c):
 #     average=(a+b+c)/3
 #     print("the average is",average) 
