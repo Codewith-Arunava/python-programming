@@ -1,7 +1,7 @@
 # def calc_sum(a,b):
 #     sum=a+b
 #     print("the sum is",sum)
-
+ 
 # calc_sum(10,20)
 
 #average of three numbers  
