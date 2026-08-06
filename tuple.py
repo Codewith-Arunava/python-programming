@@ -9,7 +9,7 @@ print(marks[0])
 # movies.append(input("Enter the name of your 2nd fav movie: "))
 # movies.append(input("Enter the name of your 3rd fav movie: "))
 
-# print(movies)
+# print(movies) 
 
 
 
