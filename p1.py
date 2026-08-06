@@ -2,7 +2,7 @@ print('hello world')
 print(45+5)
 name="arunava"
 age=6
-print(age)
+print(age) 
 
 str1='arunava'
 str2='chakraborty'
