@@ -2,7 +2,7 @@ marks=(3,4,6,5,8)
 print(type(marks))  
 print(marks[0])  
     
-
+ 
 #wap to ask the user to enter names of their 3 fav movies & store them in a list.
 # movies=[]
 # movies.append(input("Enter the name of your 1st fav movie: "))
