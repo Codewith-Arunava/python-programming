@@ -1,5 +1,5 @@
 marks=(3,4,6,5,8)
-print(type(marks)) 
+print(type(marks))  
 print(marks[0]) 
   
 
