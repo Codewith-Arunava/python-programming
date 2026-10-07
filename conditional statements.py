@@ -5,7 +5,7 @@ else:
     print("cannot vote")
 
 
-light="greefn"
+light="greefn" 
 if(light=="red"):
     print("stop")
 elif(light=="yellow"):
