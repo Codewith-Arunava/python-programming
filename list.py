@@ -6,7 +6,7 @@ print(marks[1])
 print(len(marks))
  
 student=["sachin",45,5.6,"mumbai"]
-print(student)
+print(student) 
 print(type(student))
 print(student[0])
 student[0]="sachin tendulkar"
