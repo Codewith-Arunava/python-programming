@@ -6,7 +6,7 @@ else:
 
 
 light="greefn" 
-if(light=="red"):
+if(light=="red"): 
     print("stop")
 elif(light=="yellow"):
     print("ready")
