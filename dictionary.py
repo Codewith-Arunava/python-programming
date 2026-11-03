@@ -7,7 +7,7 @@
 # print(info)
 # print(type(info))
 # print(info["name"])
-# info["name"] = "arunava"
+# info["name"] = "arunava" 
 # print(info)
 
  
