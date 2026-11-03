@@ -6,7 +6,7 @@
 
 # str="hello world"
 # for ch in str:
-#     if ch=="o":
+#     if ch=="o": 
 #         print("found o")
 #         break   
 # else:
